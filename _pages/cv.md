@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc, Electrical Engineering, Qazvin I. Azad University, GPA:3.28, 2023
+* High School Diploma, National Organization for Development of Exceptional Talents(Sampad), GPA:3.63
 
-Work experience
+Research Interest
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Electromagnetics
+* Antennas
+* Microwave
+* Radar
+* Radio Frequency
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Teaching Experience
+======
+* Teaching Assistant(TA) for ’Signals and Systems’
+  * Qazvin I. Azad University 
+* Teaching Assistant(TA) for ’Digital Systems II’
+  * Qazvin I. Azad University
+
+Research Experience
+======
+* Mechatronic Research Laboratory (MRL) ‑ Humanoid Soccer Robot Team
+  * Project:
+    * Design a modified version of the USB2Dynamixel (USB2DXL) board, which is the interface between the Dynamixel actuators and the controller.
+    This board is designed to communicate with both TTL and RS‑485 Dynamixel series at the same time.
+    * Designed compact 2.4 GHz PCB antennas specifically tailored for ESP32 modules. These antennas facilitated seamless wireless communication,
+    allowing for remote motor control and command execution with precision and efficiency.
+
+Honors
+======
+* First place in Humanoid Soccer Robot League in International Robotic Competition 2023
+* Ranked 2ND Among 40 Peers B.Sc
+* First place in Humanoid Soccer Robot League in Robocup Competition 2019
+
+Scholarships
+======
+* Half tuition scholarship for undergraduate studies
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming : MATLAB, Python, C Programming Language, LaTeX
+* Software and Tools : Altium, Micro Vision Keil(ARM), STM32CubeIDE, CodeVision (AVR), Proteus, Microsoft Office, Git(familiar)
+* Languages : Persian (Mother Tongue), English (Foreign Language)
+* Soft Skills : Easily Get Into Teams, Time Management, Problem Solving.
 
 Publications
 ======
