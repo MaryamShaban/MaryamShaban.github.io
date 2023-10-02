@@ -2,7 +2,7 @@
 title: "MRL Team Extended Abstract for Humanoid Kid Size League of RoboCup 2023 "
 collection: publications
 permalink: /publication/2023-paper-MRL_Team_Extended_Abstract
-date: '2023'
+date: 2023
 excerpt: 'THE 26TH INTERNATiONAL ROBOCUP SYMPOSiUM.'
 venue: 'Journal 1'
 paperurl: 'http://maryamshaban.github.io/files/paper1.pdf'
