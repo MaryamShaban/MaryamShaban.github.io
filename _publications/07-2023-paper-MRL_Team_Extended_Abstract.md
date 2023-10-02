@@ -10,6 +10,6 @@ citation: 'Hamed Mahmudi, Saeed Bazargan, Arash Rahmani, Abolfazl Ashayeri, Fate
 ---
 The 26TH International RoboCup Symposium.
 
-[Download paper here](http://maryamshaban.github.io/files/paper1.pdf)
+Download paper here(http://maryamshaban.github.io/files/paper1.pdf)
 
 Recommended citation: Hamed Mahmudi, Saeed Bazargan, Arash Rahmani, Abolfazl Ashayeri, Fatemeh Rashnozadeh, Alireza Golchin, Ramtin Kosari, Sina Khoshzaban Khosroshahi, Mehdi Zeinali and Maryam Shaban : MRL Team Extended Abstract for Humanoid Kid Size League of RoboCup 2023.
