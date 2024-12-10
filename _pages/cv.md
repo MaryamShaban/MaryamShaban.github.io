@@ -26,7 +26,7 @@ Teaching Experience
 ======
 * Teaching Assistant(TA) for ’Signals and Systems’
   * Qazvin I. Azad University 
-* Teaching Assistant(TA) for ’Digital Systems II’
+* Teaching Assistant(TA) for ’Microprocessor’
   * Qazvin I. Azad University
 
 Research Experience
